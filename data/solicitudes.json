@@ -1,0 +1,29 @@
+{
+  "solicitudes": [
+    {
+      "legajo": "2",
+      "nombre": "Laura Méndez (Subdirectora)",
+      "sector": "Dirección",
+      "fecha_inicio": "2026-07-20",
+      "fecha_fin": "2026-08-05",
+      "dias_solicitados": 17,
+      "estado": "APROBADA",
+      "telegram_chat_id": 972223128,
+      "id": "SOL-001",
+      "fecha_solicitud": "2026-05-25T18:35:50.102313"
+    },
+    {
+      "legajo": "5",
+      "nombre": "Nicolás Vega",
+      "sector": "Diseño",
+      "fecha_inicio": "2026-07-20",
+      "fecha_fin": "2026-07-25",
+      "dias_solicitados": 6,
+      "estado": "RECHAZADA",
+      "telegram_chat_id": 972223128,
+      "id": "SOL-002",
+      "fecha_solicitud": "2026-05-25T18:45:04.767996",
+      "motivo_rechazo": "No especificado"
+    }
+  ]
+}

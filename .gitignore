@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos Virtuales
+venv/
+env/
+.venv/
+*.venv
+
+# Variables de Entorno (¡Muy importante no subir credenciales!)
+.env
+.env.local
+.env.*.local
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos generados por el Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+*.sqlite
+
+# Archivos de datos del proyecto (Descomentar si contienen información real/sensible)
+# data/legajo.csv
+# data/solicitudes.json
